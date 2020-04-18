@@ -10,4 +10,5 @@ setup(
   download_url = 'https://github.com/waltermas-gitter/chuletas/tarball/0.1',
   keywords = ['testing', 'logging', 'example'],
   classifiers = [],
+  scripts=['bin/chuletas']
 )

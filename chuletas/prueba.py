@@ -1,3 +1,5 @@
-def prueba:
-	print("esto es una prueba")
+def prueba():
+	x = "esto es una prueba"
+	return x
+
 	
