@@ -10,5 +10,6 @@ setup(
   download_url = 'https://github.com/waltermas-gitter/chuletas/tarball/0.3',
   keywords = ['testing', 'logging', 'example'],
   classifiers = [],
-  scripts=['bin/chuletas']
+  install_requires=['requests', 'bs4'],
+  scripts=['bin/chuletas', 'bin/nanodrive', 'bin/filedrive']
 )

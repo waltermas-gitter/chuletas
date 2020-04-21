@@ -2,6 +2,8 @@
 setup.cfg
 setup.py
 bin/chuletas
+bin/filedrive
+bin/nanodrive
 chuletas/__init__.py
 chuletas/aritmetica.py
 chuletas/prueba.py
